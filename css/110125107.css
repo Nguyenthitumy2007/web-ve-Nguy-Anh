@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách sinh viên DA25TTA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Trang chủ</h1>
+        p>Bài tập về nhà (Table + iframe + Link)</p>
+        <h2 class="class-name">DANH SÁCH SINH VIÊN LỚP DA25TTA</h2>
+    </header>
+
+    <main class="container">
+        <nav class="sidebar">
+            <a href="#" class="btn-ms">110125010</a>
+            <a href="#" class="btn-ms">110125011</a>
+            <a href="#" class="btn-ms">110125012</a>
+            <a href="#" class="btn-ms">110125013</a>
+            <a href="#" class="btn-ms">110125001</a>
+            <a href="#" class="btn-ms">110125001</a>
+            <a href="#" class="btn-ms">110125001</a>
+            <a href="#" class="btn-ms">110125002</a>
+            <a href="#" class="btn-ms">110125003</a>
+        </nav>
+
+        <section class="content">
+            <h2>Trang số 1</h2>
+            <a href="#" class="link-home">Truy cập trang chủ</a>
+
+            <h3>Chèn hình ảnh</h3>
+            <div class="image-box">
+                <img src="https://via.placeholder.com/150" alt="Hoa hồng">
+            </div>
+            <a href="mailto:example@gmail.com">Send email</a>
+
+            <h3>Tạo nút nhấn</h3>
+            <button type="button">Trang số 3</button>
+
+            <div class="footer-note">
+                WEEKEND PLAN
+            </div>
+        </section>
+    </main>
+
+</body>
+</html>
